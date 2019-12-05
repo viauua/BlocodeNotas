@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="action_settings">Settings</string>
+    <string name="nota_recuperada">restored note</string>
+    <string name="nota_vazia">empty note</string>
+    <string name="nota_salva">saved note</string>
+</resources>
